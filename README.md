@@ -1,4 +1,4 @@
-# ULX_Buildmode_HUD
+# ULX Buildmode Indicator
 An HUD for showing current Playerstatus for the ULX Buildmode Addon
 
 For the Reference check the Steam Workshop Link below
